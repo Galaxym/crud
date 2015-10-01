@@ -1,0 +1,63 @@
+body
+{
+	background-color: #eeffff;
+}
+.itemlist
+{
+	border: 5px ridge grey;
+	background-color: #ffffff;
+}
+#additem
+{
+	background-color: #ffffff;
+	text-decoration: none;
+	color: black;
+	border: 5px ridge #b2b2b2;
+}
+.del a
+{
+	text-decoration: none;
+	color: red;
+}
+.name a
+{
+	text-decoration: none;
+	color: blue;
+}
+.name a:hover
+{
+	font-weight: bold;
+}
+#choice
+{
+	padding-left: 15%;
+}
+#choice a
+{
+	text-decoration: none;
+	color: #abaddd;
+}
+#choice a:hover
+{
+		color: blue;
+}
+#delyes
+{
+	padding-right: 20px;
+}
+#titname
+{
+	width:  120px;
+}
+#titnb
+{
+	width: 100px; 
+}
+#titdate
+{
+	width: 100px;
+}
+
+
+
+
